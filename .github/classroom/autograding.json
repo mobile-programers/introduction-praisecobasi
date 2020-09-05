@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "html structure",
+      "setup": "",
+      "run": "Run",
+      "input": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<title>Html1</title>\r\n</head>\r\n<body>\r\n\r\n<h1>My First Html code</h1>\r\n<p>Mobile programers assignment 1</p>\r\n\r\n</body>\r\n</html>",
+      "output": "My First Html code\r\nMobile programers assignment 1",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
